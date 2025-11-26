@@ -1,0 +1,17 @@
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\bin\Debug\net8.0-windows\Tapsiriq17.exe
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\bin\Debug\net8.0-windows\Tapsiriq17.deps.json
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\bin\Debug\net8.0-windows\Tapsiriq17.runtimeconfig.json
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\bin\Debug\net8.0-windows\Tapsiriq17.dll
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\bin\Debug\net8.0-windows\Tapsiriq17.pdb
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.Form1.resources
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.Properties.Resources.resources
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.csproj.GenerateResource.cache
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.AssemblyInfoInputs.cache
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.AssemblyInfo.cs
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.csproj.CoreCompileInputs.cache
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.dll
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\refint\Tapsiriq17.dll
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.pdb
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\Tapsiriq17.genruntimeconfig.cache
+C:\projects\c#\New folder\Tapsiriq17\Tapsiriq17\obj\Debug\net8.0-windows\ref\Tapsiriq17.dll
